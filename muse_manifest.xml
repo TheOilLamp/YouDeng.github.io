@@ -1,0 +1,191 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YD.test.com" resolutions="1x,2x" timestamp="1608803529356">
+  <folder name="css">
+    <file name="site_global.css" crc="336082127"/>
+    <file name="index.css" crc="3793192171" ref="index"/>
+    <file name="1.css" crc="474469166" ref="1"/>
+    <file name="2.css" crc="189451004" ref="2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2:1"/>
+    <file name="museutils.js" crc="4216313831" ref="index:2:1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2:1"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:2:1"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:2:1"/>
+    <file name="require.js" crc="3951022091" ref="index:2:1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="2:1"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="2:1"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="2:1"/>
+    <file name="touchswipe.js" crc="4200445185" ref="2:1"/>
+  </folder>
+  <folder name="images">
+    <file name="satisfy.jpg" crc="18487089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satisfy_2x.jpg" crc="3979285798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="procreate_1.jpg" crc="4104864847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="procreate_1_2x.jpg" crc="3960661485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="狗狗和燈.jpg" crc="4239411680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="狗狗和燈_2x.jpg" crc="258832381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20200428_mw15_油燈.jpg" crc="3988408253" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u601-4.png" crc="5236660" ref="index"/>
+    <file name="u601-4_2x.png" crc="4024255643" ref="index"/>
+    <file name="u605-4.png" crc="536020919" ref="index"/>
+    <file name="u605-4_2x.png" crc="189384299" ref="index"/>
+    <file name="20200428_mw15_油燈723x723.jpg" crc="505786159" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20200428_mw15_油燈723x723_2x.jpg" crc="164014097" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="2:1"/>
+    <file name="20200528_mw15_大神士郎723x723.jpg" crc="3998731264" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20200528_mw15_大神士郎_2x.jpg" crc="389432033" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20200723_mw15_劍冠軍723x723.jpg" crc="3804042176" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20200723_mw15_劍冠軍_2x.jpg" crc="3791681806" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20200727_mw15_eva初號機723x723.jpg" crc="222431001" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20200727_mw15_eva初號機_2x.jpg" crc="3843244364" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20200828_mw15_赤羽目723x723.jpg" crc="408363377" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20200828_mw15_赤羽目_2x.jpg" crc="3958944608" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20201004_mw15_拉西斯723x723.jpg" crc="4216792064" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20201004_mw15_拉西斯_2x.jpg" crc="3816197037" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20201028_mw15_gotcha!723x723.jpg" crc="71873064" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20201028_mw15_gotcha!_2x.jpg" crc="4203793713" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20201128_mw15_雷格西.jpg" crc="521847874" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="20201128_mw15_雷格西_2x.jpg" crc="97819074" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="2:1"/>
+    <file name="20191004.jpg" crc="4213953261" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191014.jpg" crc="3973839256" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191023-crop-u854.jpg" crc="3899539013" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191023-crop-u854_2x.jpg" crc="3761415578" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191110-crop-u880.jpg" crc="4039619227" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191124-crop-u906.jpg" crc="4194043688" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191203-crop-u932.jpg" crc="4176636033" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200111.jpg" crc="43402651" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200308-crop-u1010.jpg" crc="4089971410" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200406.jpg" crc="4115140130" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200515.jpg" crc="15122392" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200709-crop-u1088.jpg" crc="4046100134" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200903-crop-u1114.jpg" crc="341049853" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200920.gif" crc="4041374868" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20201018.jpg" crc="3874873432" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20201105-crop-u1192.jpg" crc="4245396922" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20201207-crop-u1218.jpg" crc="4089851452" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191004_2x.jpg" crc="3953865225" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191014_2x.jpg" crc="3828504236" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191110-crop-u880_2x.jpg" crc="91094887" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191124-crop-u906_2x.jpg" crc="328734028" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191222668x668.jpg" crc="180110276" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20191222_2x.jpg" crc="4151693390" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200111_2x.jpg" crc="150317384" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200308-crop-u1010_2x.jpg" crc="4229134618" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200406_2x.jpg" crc="4094688926" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200515_2x.jpg" crc="481767681" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20200709-crop-u1088_2x.jpg" crc="462187145" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20201105-crop-u1192_2x.jpg" crc="4091580386" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="20201207-crop-u1218_2x.jpg" crc="4030728245" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3956369309" seo="true" mt="1608802581929" redirect="true"/>
+  <file name="2.html" crc="3764351930" seo="true" mt="1608803108813" redirect="true"/>
+  <file name="1.html" crc="203684350" seo="true" mt="1608803523238" redirect="true"/>
+</manifest>
