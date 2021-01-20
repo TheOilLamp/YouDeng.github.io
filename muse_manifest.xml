@@ -1,0 +1,168 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YD.tol.com" resolutions="1x,2x" timestamp="1611147486109">
+  <folder name="css">
+    <file name="site_global.css" crc="4203465377"/>
+    <file name="index.css" crc="122459757" ref="index"/>
+    <file name="artcomic.css" crc="4132960611" ref="artcomic"/>
+    <file name="________.css" crc="403311027" ref="設計系新鮮人日記"/>
+    <file name="animation.css" crc="4180336772" ref="animation"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:artcomic:animation:設計系新鮮人日記"/>
+    <file name="museutils.js" crc="4216313831" ref="index:artcomic:animation:設計系新鮮人日記"/>
+    <file name="whatinput.js" crc="86476730" ref="index:artcomic:animation:設計系新鮮人日記"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:artcomic:animation:設計系新鮮人日記"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:設計系新鮮人日記:animation"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:artcomic:animation:設計系新鮮人日記"/>
+    <file name="require.js" crc="3951022091" ref="index:artcomic:animation:設計系新鮮人日記"/>
+    <file name="webpro.js" crc="4143865194" ref="artcomic"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="artcomic"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="artcomic"/>
+    <file name="touchswipe.js" crc="4200445185" ref="artcomic"/>
+  </folder>
+  <folder name="images">
+    <file name="20210119_on the bus.jpg" crc="4269260357" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191004.jpg" crc="177223343" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191004_2x.jpg" crc="313891462" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="artcomic"/>
+    <file name="20191014.jpg" crc="3991173893" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191014_2x.jpg" crc="3930996450" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191023.jpg" crc="4043397042" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191023_2x.jpg" crc="92112950" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191110-crop-u2095.jpg" crc="246434868" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191110-crop-u2095_2x.jpg" crc="161967019" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191124-crop-u2121.jpg" crc="4248217793" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191124-crop-u2121_2x.jpg" crc="525523449" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191203-crop-u2147.jpg" crc="438643224" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191222.jpg" crc="4156114855" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20191222_2x.jpg" crc="4263766475" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200111.jpg" crc="197722813" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200111_2x.jpg" crc="524961504" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200308-crop-u2225.jpg" crc="4052187273" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200308-crop-u2225_2x.jpg" crc="532551379" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200406.jpg" crc="391730217" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200406_2x.jpg" crc="3855707848" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200515.jpg" crc="130880937" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200515_2x.jpg" crc="4254876412" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200709.jpg" crc="4251327091" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200709_2x.jpg" crc="275409719" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200903-crop-u2329.jpg" crc="3969721451" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20200920.gif" crc="4041374868" ref="artcomic:設計系新鮮人日記">
+      <caption webpage="artcomic" alt=""/>
+      <caption webpage="設計系新鮮人日記" alt=""/>
+    </file>
+    <file name="20201018.jpg" crc="3932390184" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20201105.jpg" crc="56729580" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20201105_2x.jpg" crc="3929445818" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20201207-crop-u2433.jpg" crc="4236636370" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20201207-crop-u2433_2x.jpg" crc="130299284" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20210107.jpg" crc="4039438960" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="20210107_2x.jpg" crc="4080368411" seo="true" ref="artcomic">
+      <caption webpage="artcomic" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="artcomic"/>
+    <file name="20191004-u2527-fr.jpg" crc="3873976372" ref="設計系新鮮人日記"/>
+    <file name="20191004-u2527-fr_2x.jpg" crc="3898961495" ref="設計系新鮮人日記"/>
+    <file name="20191014-u2536-fr.jpg" crc="4061796752" ref="設計系新鮮人日記"/>
+    <file name="20191014-u2536-fr_2x.jpg" crc="3838876691" ref="設計系新鮮人日記"/>
+    <file name="20191023-u2545-fr.jpg" crc="308459890" ref="設計系新鮮人日記"/>
+    <file name="20191023-u2545-fr_2x.jpg" crc="3845287607" ref="設計系新鮮人日記"/>
+    <file name="20191124-u2560-fr.jpg" crc="4004343610" ref="設計系新鮮人日記"/>
+    <file name="20191124-u2560-fr_2x.jpg" crc="475111468" ref="設計系新鮮人日記"/>
+    <file name="20191203-u2563-fr.jpg" crc="314683134" ref="設計系新鮮人日記"/>
+    <file name="20191203-u2563-fr_2x.jpg" crc="22498145" ref="設計系新鮮人日記"/>
+    <file name="20191222-u2557-fr.jpg" crc="3924381096" ref="設計系新鮮人日記"/>
+    <file name="20191222-u2557-fr_2x.jpg" crc="4061165623" ref="設計系新鮮人日記"/>
+    <file name="20200111-u2566-fr.jpg" crc="4187051511" ref="設計系新鮮人日記"/>
+    <file name="20200111-u2566-fr_2x.jpg" crc="123040460" ref="設計系新鮮人日記"/>
+    <file name="p_obsidian_poster_art.jpg" crc="4039854317" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="p_obsidian_poster_art_2x.jpg" crc="89497154" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="20200308-u2633-fr.jpg" crc="4217233808" ref="設計系新鮮人日記"/>
+    <file name="20200308-u2633-fr_2x.jpg" crc="202101064" ref="設計系新鮮人日記"/>
+    <file name="20200406-u2636-fr.jpg" crc="54409462" ref="設計系新鮮人日記"/>
+    <file name="20200406-u2636-fr_2x.jpg" crc="121442893" ref="設計系新鮮人日記"/>
+    <file name="20200515-u2639-fr.jpg" crc="52871400" ref="設計系新鮮人日記"/>
+    <file name="20200515-u2639-fr_2x.jpg" crc="3920672002" ref="設計系新鮮人日記"/>
+    <file name="20200709-u2642-fr.jpg" crc="286628300" ref="設計系新鮮人日記"/>
+    <file name="20200709-u2642-fr_2x.jpg" crc="3781444816" ref="設計系新鮮人日記"/>
+    <file name="20200903-u2645-fr.jpg" crc="530345900" ref="設計系新鮮人日記"/>
+    <file name="20200903-u2645-fr_2x.jpg" crc="4053378557" ref="設計系新鮮人日記"/>
+    <file name="20201018-u2681-fr.jpg" crc="4031456018" ref="設計系新鮮人日記"/>
+    <file name="20201018-u2681-fr_2x.jpg" crc="3835008330" ref="設計系新鮮人日記"/>
+    <file name="20201105-u2684-fr.jpg" crc="189070166" ref="設計系新鮮人日記"/>
+    <file name="20201105-u2684-fr_2x.jpg" crc="473291654" ref="設計系新鮮人日記"/>
+    <file name="20201207-u2687-fr.jpg" crc="30759602" ref="設計系新鮮人日記"/>
+    <file name="20201207-u2687-fr_2x.jpg" crc="4234433819" ref="設計系新鮮人日記"/>
+    <file name="20210107-u2707-fr.jpg" crc="500592669" ref="設計系新鮮人日記"/>
+    <file name="20210107-u2707-fr_2x.jpg" crc="324890396" ref="設計系新鮮人日記"/>
+  </folder>
+  <file name="index.html" crc="259763163" seo="true" mt="1611147443695" redirect="true"/>
+  <file name="artcomic.html" crc="67826025" seo="true" mt="1611145941151" redirect="true"/>
+  <file name="animation.html" crc="4248211197" seo="true" mt="1611147161232" redirect="true"/>
+  <file name="設計系新鮮人日記.html" crc="3916571774" seo="true" mt="1611147086047" redirect="true"/>
+</manifest>
