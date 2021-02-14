@@ -1,0 +1,659 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YD.tol.com" resolutions="1x,2x" timestamp="1613289448886">
+  <folder name="css">
+    <file name="site_global.css" crc="336082127"/>
+    <file name="index.css" crc="3889730519" ref="index"/>
+    <file name="art.css" crc="3922346453" ref="art"/>
+    <file name="obsidian.css" crc="4244071288" ref="obsidian"/>
+    <file name="designer-s-freshman-diary.css" crc="430013633" ref="designer-s-freshman-diary"/>
+    <file name="comic.css" crc="280549818" ref="comic"/>
+    <file name="miniworld15.css" crc="198956763" ref="miniworld15"/>
+    <file name="animation.css" crc="4161241820" ref="animation"/>
+    <file name="mazes-of-agulet.css" crc="3764587082" ref="mazes-of-agulet"/>
+    <file name="game.css" crc="455177410" ref="game"/>
+    <file name="kids-dragon-s-diary.css" crc="259307797" ref="kids-dragon-s-diary"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:art:comic:animation:game:designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary"/>
+    <file name="museutils.js" crc="4216313831" ref="index:art:comic:animation:game:designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary"/>
+    <file name="whatinput.js" crc="86476730" ref="index:art:comic:animation:game:designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:art:comic:animation:game:designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:art:comic:animation:game:designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary"/>
+    <file name="require.js" crc="3951022091" ref="index:art:comic:animation:game:designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary"/>
+    <file name="webpro.js" crc="4143865194" ref="art:mazes-of-agulet:kids-dragon-s-diary"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="art:mazes-of-agulet:kids-dragon-s-diary"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="art:mazes-of-agulet:kids-dragon-s-diary"/>
+    <file name="touchswipe.js" crc="4200445185" ref="art:mazes-of-agulet:kids-dragon-s-diary"/>
+  </folder>
+  <folder name="images">
+    <file name="front page.jpg" crc="4051308537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="front page_2x.jpg" crc="502849735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2021_圓.png" crc="498693829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="條.png" crc="481360678" seo="true" ref="index:art:comic:animation:game:designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary">
+      <caption webpage="game" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="comic" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="miniworld15" alt=""/>
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+      <caption webpage="obsidian" alt=""/>
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="條_2x.png" crc="4194815489" seo="true" ref="index:art:comic:animation:game:designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary">
+      <caption webpage="game" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="comic" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="miniworld15" alt=""/>
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+      <caption webpage="obsidian" alt=""/>
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="u3309-5.png" crc="472265789" ref="index"/>
+    <file name="u3309-5_2x.png" crc="17928096" ref="index"/>
+    <file name="u3317-4.png" crc="3803506410" ref="index"/>
+    <file name="u3317-4_2x.png" crc="469308974" ref="index"/>
+    <file name="u3320-4.png" crc="4096597166" ref="index"/>
+    <file name="u3320-4_2x.png" crc="502392059" ref="index"/>
+    <file name="u3326-4.png" crc="39707184" ref="index"/>
+    <file name="u3326-4_2x.png" crc="139063214" ref="index"/>
+    <file name="u3332-4.png" crc="4271598673" ref="index"/>
+    <file name="u3332-4_2x.png" crc="535537855" ref="index"/>
+    <file name="u3335-4.png" crc="3803506410" ref="index"/>
+    <file name="u3335-4_2x.png" crc="469308974" ref="index"/>
+    <file name="u3338-4.png" crc="3803506410" ref="index"/>
+    <file name="u3338-4_2x.png" crc="469308974" ref="index"/>
+    <file name="fb社群icon.png" crc="3888673296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig社群icon.png" crc="85087439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixiv社群icon.png" crc="124361965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter社群icon.png" crc="4171890685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yt社群icon.png" crc="18745267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3546-7.png" crc="4032027036" ref="index"/>
+    <file name="u3546-7_2x.png" crc="3807446920" ref="index"/>
+    <file name="u3549-4.png" crc="144420594" ref="index"/>
+    <file name="u3549-4_2x.png" crc="4250040884" ref="index"/>
+    <file name="u3537-6.png" crc="4200475238" ref="index"/>
+    <file name="u3537-6_2x.png" crc="379563385" ref="index"/>
+    <file name="u3540-6.png" crc="3826830906" ref="index"/>
+    <file name="u3540-6_2x.png" crc="4108419102" ref="index"/>
+    <file name="u3543-6.png" crc="129370138" ref="index"/>
+    <file name="u3543-6_2x.png" crc="3890565258" ref="index"/>
+    <file name="home icon.png" crc="4279314699" seo="true" ref="art:comic:animation:game">
+      <caption webpage="game" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="comic" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="home icon_2x.png" crc="85001712" seo="true" ref="art:comic:animation:game">
+      <caption webpage="game" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="comic" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="u3603-4.png" crc="464952599" ref="art"/>
+    <file name="u3603-4_2x.png" crc="3895844565" ref="art"/>
+    <file name="u3612-4.png" crc="4282274681" ref="comic"/>
+    <file name="u3612-4_2x.png" crc="4192426906" ref="comic"/>
+    <file name="u3632-6.png" crc="4101957332" ref="animation"/>
+    <file name="u3632-6_2x.png" crc="230458895" ref="animation"/>
+    <file name="u3652-4.png" crc="3984480831" ref="game"/>
+    <file name="u3652-4_2x.png" crc="336834577" ref="game"/>
+    <file name="u3570-30.png" crc="173735602" ref="index"/>
+    <file name="u3570-30_2x.png" crc="343651615" ref="index"/>
+    <file name="u3573-31.png" crc="474767912" ref="index"/>
+    <file name="u3573-31_2x.png" crc="488940122" ref="index"/>
+    <file name="條548x22.png" crc="4259818024" seo="true" ref="art:game">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="game" alt=""/>
+    </file>
+    <file name="條548x22_2x.png" crc="3800807525" seo="true" ref="art:game">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="game" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="art:mazes-of-agulet:kids-dragon-s-diary"/>
+    <file name="20200920.gif" crc="4041374868" seo="true" ref="art:designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="art:mazes-of-agulet:kids-dragon-s-diary"/>
+    <file name="20200428_mw15_油燈-crop-u5092.jpg" crc="3847864406" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200528_mw15_大神士郎-crop-u5242.jpg" crc="45608647" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200723_mw15_劍冠軍-crop-u5268.jpg" crc="3843482362" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200727_mw15_eva初號機-crop-u5294.jpg" crc="48241232" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200828_mw15_赤羽目-crop-u5320.jpg" crc="4289745715" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20201004_mw15_拉西斯-crop-u5346.jpg" crc="9647341" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20201028_mw15_gotcha!-crop-u5372.jpg" crc="453811090" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20201128_mw15_雷格西-crop-u5398.jpg" crc="4023705284" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20210128_mw15_小春_雷格西-crop-u5431.jpg" crc="377874700" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="u4518-8.png" crc="4197158785" ref="art"/>
+    <file name="u4518-8_2x.png" crc="4176749064" ref="art"/>
+    <file name="u4523-5.png" crc="278172913" ref="art"/>
+    <file name="u4523-5_2x.png" crc="65434764" ref="art"/>
+    <file name="u6870-8.png" crc="280564813" ref="comic"/>
+    <file name="u6870-8_2x.png" crc="99534808" ref="comic"/>
+    <file name="a0807024_李宗叡_f_00.jpg" crc="3811967559" seo="true" ref="mazes-of-agulet">
+      <caption webpage="comic" alt=""/>
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="u7229-5.png" crc="4088556848" ref="animation"/>
+    <file name="u7229-5_2x.png" crc="3986888716" ref="animation"/>
+    <file name="p_obsidian_cover.jpg" crc="4218025843" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="p_obsidian_cover_2x.jpg" crc="3855262355" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u7249-8.png" crc="124182464" ref="game"/>
+    <file name="u7249-8_2x.png" crc="4026088382" ref="game"/>
+    <file name="封面圖-2.jpg" crc="3815055476" seo="true" ref="game">
+      <caption webpage="game" alt=""/>
+    </file>
+    <file name="封面圖-2_2x.jpg" crc="3954065004" seo="true" ref="game">
+      <caption webpage="game" alt=""/>
+    </file>
+    <file name="前一頁icon.png" crc="100718298" seo="true" ref="designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary">
+      <caption webpage="miniworld15" alt=""/>
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+      <caption webpage="obsidian" alt=""/>
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="前一頁icon_2x.png" crc="3818790413" seo="true" ref="designer-s-freshman-diary:miniworld15:mazes-of-agulet:obsidian:kids-dragon-s-diary">
+      <caption webpage="miniworld15" alt=""/>
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+      <caption webpage="obsidian" alt=""/>
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="home icon52x52.png" crc="3958334277" seo="true" ref="designer-s-freshman-diary:kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="home icon52x52_2x.png" crc="85001712" seo="true" ref="designer-s-freshman-diary:kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="u7289-7.png" crc="4291794786" ref="designer-s-freshman-diary"/>
+    <file name="u7289-7_2x.png" crc="3794687946" ref="designer-s-freshman-diary"/>
+    <file name="u7294-5.png" crc="3775773420" ref="miniworld15"/>
+    <file name="u7294-5_2x.png" crc="107554257" ref="miniworld15"/>
+    <file name="u7304-8.png" crc="348533450" ref="mazes-of-agulet"/>
+    <file name="u7304-8_2x.png" crc="470929253" ref="mazes-of-agulet"/>
+    <file name="u7314-5.png" crc="456516149" ref="obsidian"/>
+    <file name="u7314-5_2x.png" crc="94054486" ref="obsidian"/>
+    <file name="u7324-7.png" crc="3922113629" ref="kids-dragon-s-diary"/>
+    <file name="u7324-7_2x.png" crc="3934814964" ref="kids-dragon-s-diary"/>
+    <file name="u7527-10.png" crc="278216395" ref="designer-s-freshman-diary"/>
+    <file name="u7527-10_2x.png" crc="3859791694" ref="designer-s-freshman-diary"/>
+    <file name="u7528-8.png" crc="328129280" ref="designer-s-freshman-diary"/>
+    <file name="u7528-8_2x.png" crc="319102073" ref="designer-s-freshman-diary"/>
+    <file name="20191004370x370.jpg" crc="4048861017" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191004370x370_2x.jpg" crc="3992395591" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191014370x370.jpg" crc="183689846" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191014370x370_2x.jpg" crc="147516192" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191023492x370.jpg" crc="517318988" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191023492x370_2x.jpg" crc="4045997406" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191124266x348.jpg" crc="141260368" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191124266x348_2x.jpg" crc="268737528" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191203618x348.jpg" crc="3842023218" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191203618x348_2x.jpg" crc="183997164" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191222348x348.jpg" crc="3790464748" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20191222348x348_2x.jpg" crc="4066394614" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200111334x334.jpg" crc="4039262870" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200111334x334_2x.jpg" crc="25603866" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200308256x334.jpg" crc="4083227838" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200308256x334_2x.jpg" crc="107881790" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200406334x334.jpg" crc="3994165521" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200406334x334_2x.jpg" crc="4181725369" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200515308x334.jpg" crc="123048243" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200515308x334_2x.jpg" crc="92090738" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200709410x314.jpg" crc="3888259175" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200709410x314_2x.jpg" crc="3768606113" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200903168x314.jpg" crc="4049472675" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20200903168x314_2x.jpg" crc="252185102" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20201018314x314.jpg" crc="3970146416" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20201018314x314_2x.jpg" crc="3798331922" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20201105476x364.jpg" crc="3789286155" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20201105476x364_2x.jpg" crc="246594256" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20201207279x364.jpg" crc="344592891" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20201207279x364_2x.jpg" crc="441506892" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20210107476x364.jpg" crc="3927218812" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="20210107476x364_2x.jpg" crc="204643544" seo="true" ref="designer-s-freshman-diary">
+      <caption webpage="designer-s-freshman-diary" alt=""/>
+    </file>
+    <file name="u7810-4.png" crc="3968818154" ref="miniworld15"/>
+    <file name="u7810-4_2x.png" crc="117039837" ref="miniworld15"/>
+    <file name="u7811-4.png" crc="361098591" ref="miniworld15"/>
+    <file name="u7811-4_2x.png" crc="4275823536" ref="miniworld15"/>
+    <file name="20200428_mw15_油燈404x404.jpg" crc="3914075571" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200428_mw15_油燈404x404_2x.jpg" crc="3870478083" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200528_mw15_大神士郎404x404.jpg" crc="343967935" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200528_mw15_大神士郎404x404_2x.jpg" crc="4246215677" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200723_mw15_劍冠軍404x404.jpg" crc="3779952961" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200723_mw15_劍冠軍404x404_2x.jpg" crc="3793747747" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200727_mw15_eva初號機404x404.jpg" crc="215588620" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200727_mw15_eva初號機404x404_2x.jpg" crc="412066516" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200828_mw15_赤羽目404x404.jpg" crc="446402784" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20200828_mw15_赤羽目404x404_2x.jpg" crc="3810212636" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20201004_mw15_拉西斯404x404.jpg" crc="4189428911" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20201004_mw15_拉西斯404x404_2x.jpg" crc="4207720245" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20201028_mw15_gotcha!404x404.jpg" crc="429407354" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20201028_mw15_gotcha!404x404_2x.jpg" crc="98464879" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20201128_mw15_雷格西404x404.jpg" crc="360640441" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20201128_mw15_雷格西404x404_2x.jpg" crc="75490985" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20210128_mw15_小春_雷格西404x404.jpg" crc="117534419" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="20210128_mw15_小春_雷格西404x404_2x.jpg" crc="467044459" seo="true" ref="miniworld15">
+      <caption webpage="miniworld15" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_01.jpg" crc="58941165" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_02.jpg" crc="3799263184" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_03.jpg" crc="4263959242" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_04.jpg" crc="4172507892" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_05.jpg" crc="435249434" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_06.jpg" crc="4072802182" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0067x45.jpg" crc="3931648498" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0067x45_2x.jpg" crc="3895475868" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0167x45.jpg" crc="3762090577" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0167x45_2x.jpg" crc="3910599076" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0267x45.jpg" crc="424861369" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0267x45_2x.jpg" crc="4280832126" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0367x45.jpg" crc="518256535" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0367x45_2x.jpg" crc="3872572966" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0467x45.jpg" crc="4257394555" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0467x45_2x.jpg" crc="3778207344" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0567x45.jpg" crc="4047324593" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0567x45_2x.jpg" crc="4072218660" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0667x45.jpg" crc="18878648" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_0667x45_2x.jpg" crc="3990518787" seo="true" ref="mazes-of-agulet">
+      <caption webpage="mazes-of-agulet" alt=""/>
+    </file>
+    <file name="u7469-4.png" crc="4061497882" ref="obsidian"/>
+    <file name="u7469-4_2x.png" crc="534655583" ref="obsidian"/>
+    <file name="u7470-4.png" crc="4199227707" ref="obsidian"/>
+    <file name="u7470-4_2x.png" crc="48810952" ref="obsidian"/>
+    <file name="p_obsidian_title.png" crc="3867428887" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="p_obsidian_title_2x.png" crc="154760062" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="p_obsidian_角色設定.jpg" crc="442463199" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="p_obsidian_角色設定_2x.jpg" crc="344694154" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="p_obsidian_poster_art.jpg" crc="85894773" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="p_obsidian_poster_art_2x.jpg" crc="3793181742" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="-1--9.jpg" crc="513260188" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="-1--9_2x.jpg" crc="381997102" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="-10--18.jpg" crc="4144582950" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="-10--18_2x.jpg" crc="294174587" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="-19--27.jpg" crc="3981067824" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="-19--27_2x.jpg" crc="534625482" seo="true" ref="obsidian">
+      <caption webpage="obsidian" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_00948x646.jpg" crc="354009373" seo="true" ref="comic">
+      <caption webpage="comic" alt=""/>
+    </file>
+    <file name="a0807024_李宗叡_f_00948x646_2x.jpg" crc="466610537" seo="true" ref="comic">
+      <caption webpage="comic" alt=""/>
+    </file>
+    <file name="u8275-7.png" crc="258791849" ref="kids-dragon-s-diary"/>
+    <file name="u8275-7_2x.png" crc="4025225455" ref="kids-dragon-s-diary"/>
+    <file name="u8276-7.png" crc="198951600" ref="kids-dragon-s-diary"/>
+    <file name="u8276-7_2x.png" crc="277160124" ref="kids-dragon-s-diary"/>
+    <file name="幼龍日記 設定1.jpg" crc="4036988994" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="幼龍日記 設定1_2x.jpg" crc="151300009" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="幼龍日記 無限之龍 新設定.jpg" crc="509261122" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="幼龍日記 無限之龍 新設定_2x.jpg" crc="102064329" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="幼龍日記 設定2.jpg" crc="4132153764" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="幼龍日記 設定2_2x.jpg" crc="428876972" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="幼龍日記 漆黑之龍 設定.jpg" crc="4030052125" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="幼龍日記 漆黑之龍 設定_2x.jpg" crc="337005801" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="-1.jpg" crc="253506906" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="-2.jpg" crc="123836692" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="-2_2x.jpg" crc="4199053696" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e1-2.jpg" crc="4160503632" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e1-2_2x.jpg" crc="3905802578" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e2.jpg" crc="4247888249" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e3.jpg" crc="506931513" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e3_2x.jpg" crc="94441694" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e4-2.jpg" crc="415987555" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e4-2_2x.jpg" crc="487087049" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e5.jpg" crc="339761936" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e5_2x.jpg" crc="200196882" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e6.png" crc="3798007498" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e6_2x.png" crc="431507639" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e7.jpg" crc="3945400579" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e7_2x.jpg" crc="4003799434" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e8-2.jpg" crc="4218486372" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e9.jpg" crc="4288264341" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="cg e9_2x.jpg" crc="113025642" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="-3.jpg" crc="285007980" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="小薛 普通.png" crc="3921964885" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="小薛 普通_2x.png" crc="3998750506" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="多拉貢 普通.png" crc="4021753990" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="多拉貢 普通_2x.png" crc="396381353" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="下載icon.png" crc="493754855" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="下載icon_2x.png" crc="377937091" seo="true" ref="kids-dragon-s-diary">
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+    </file>
+    <file name="u8269-4.png" crc="4070974745" ref="kids-dragon-s-diary"/>
+    <file name="u8269-4_2x.png" crc="23067094" ref="kids-dragon-s-diary"/>
+    <file name="20191004-crop-u8749.jpg" crc="3926056130" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20191014-crop-u8921.jpg" crc="4045544900" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20191023-crop-u8947.jpg" crc="3873343282" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20191023-crop-u8947_2x.jpg" crc="492286878" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20191124-crop-u8973.jpg" crc="377222797" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20191203-crop-u8999.jpg" crc="92532623" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20191222-crop-u9025.jpg" crc="406436712" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200111-crop-u9051.jpg" crc="49000611" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200308-crop-u9077.jpg" crc="3767400062" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200406-crop-u9103.jpg" crc="125860332" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200515-crop-u9129.jpg" crc="3804922916" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200709-crop-u9155.jpg" crc="250228344" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20200903-crop-u9181.jpg" crc="474905474" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20201018-crop-u9233.jpg" crc="3822114927" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20201105-crop-u9259.jpg" crc="526322014" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20201207-crop-u9285.jpg" crc="236875787" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="20210107-crop-u9311.jpg" crc="526583926" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4115036032" seo="true" mt="1613286606302" redirect="true"/>
+  <file name="art.html" crc="4068209104" seo="true" mt="1613289394701" redirect="true"/>
+  <file name="comic.html" crc="450770905" seo="true" mt="1613286600186" redirect="true"/>
+  <file name="animation.html" crc="4168570100" seo="true" mt="1613286600187" redirect="true"/>
+  <file name="game.html" crc="3874835813" seo="true" mt="1613287538683" redirect="true"/>
+  <file name="designer-s-freshman-diary.html" crc="3839529116" seo="true" mt="1613286600188" redirect="true"/>
+  <file name="miniworld15.html" crc="443804393" seo="true" mt="1613286600188" redirect="true"/>
+  <file name="mazes-of-agulet.html" crc="462441265" seo="true" mt="1613286600189" redirect="true"/>
+  <file name="obsidian.html" crc="4042092149" seo="true" mt="1613286600189" redirect="true"/>
+  <file name="kids-dragon-s-diary.html" crc="67414225" seo="true" mt="1613289298011" redirect="true"/>
+</manifest>
