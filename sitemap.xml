@@ -2,516 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://YD.tol.com/index.html</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://YD.tol.com/images/front%20page.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/facebook-app-symbol.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/front%20page_2x.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/facebook-app-symbol_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/2021_%E5%9C%93.png</image:loc>
+      <image:loc>http://YD.tol.com/images/20210907_%E6%96%B0%E5%B0%81%E9%9D%A2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
+      <image:loc>http://YD.tol.com/images/20210907_%E6%96%B0%E5%B0%81%E9%9D%A2_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
+      <image:loc>http://YD.tol.com/images/info_self.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/fb%E7%A4%BE%E7%BE%A4icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/info_self_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/ig%E7%A4%BE%E7%BE%A4icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/twitter.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/pixiv%E7%A4%BE%E7%BE%A4icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/twitter_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/twitter%E7%A4%BE%E7%BE%A4icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/youtube.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/yt%E7%A4%BE%E7%BE%A4icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/youtube_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/pixiv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/pixiv_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://YD.tol.com/art.html</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_dfd.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon_2x.png</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_dfd_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D548x22.png</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_illustrations.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D548x22_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200920.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200428_mw15_%E6%B2%B9%E7%87%88-crop-u5092.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200528_mw15_%E5%A4%A7%E7%A5%9E%E5%A3%AB%E9%83%8E-crop-u5242.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200723_mw15_%E5%8A%8D%E5%86%A0%E8%BB%8D-crop-u5268.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200727_mw15_eva%E5%88%9D%E8%99%9F%E6%A9%9F-crop-u5294.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200828_mw15_%E8%B5%A4%E7%BE%BD%E7%9B%AE-crop-u5320.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201004_mw15_%E6%8B%89%E8%A5%BF%E6%96%AF-crop-u5346.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201028_mw15_gotcha!-crop-u5372.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201128_mw15_%E9%9B%B7%E6%A0%BC%E8%A5%BF-crop-u5398.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20210128_mw15_%E5%B0%8F%E6%98%A5_%E9%9B%B7%E6%A0%BC%E8%A5%BF-crop-u5431.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191004-crop-u8749.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191014-crop-u8921.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191023-crop-u8947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191023-crop-u8947_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191124-crop-u8973.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191203-crop-u8999.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191222-crop-u9025.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200111-crop-u9051.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200308-crop-u9077.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200406-crop-u9103.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200515-crop-u9129.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200709-crop-u9155.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200903-crop-u9181.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201018-crop-u9233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201105-crop-u9259.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201207-crop-u9285.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20210107-crop-u9311.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://YD.tol.com/comic.html</loc>
-    <lastmod>2021-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_00948x646.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_00948x646_2x.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_illustrations_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://YD.tol.com/animation.html</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_obsidian.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon_2x.png</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_obsidian_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/p_obsidian_cover.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_towa.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/p_obsidian_cover_2x.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_towa_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://YD.tol.com/game.html</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_kdd.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D548x22.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D548x22_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%B0%81%E9%9D%A2%E5%9C%96-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%B0%81%E9%9D%A2%E5%9C%96-2_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://YD.tol.com/designer-s-freshman-diary.html</loc>
-    <lastmod>2021-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200920.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon52x52.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon52x52_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191004370x370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191004370x370_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191014370x370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191014370x370_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191023492x370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191023492x370_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191124266x348.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191124266x348_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191203618x348.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191203618x348_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191222348x348.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20191222348x348_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200111334x334.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200111334x334_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200308256x334.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200308256x334_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200406334x334.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200406334x334_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200515308x334.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200515308x334_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200709410x314.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200709410x314_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200903168x314.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200903168x314_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201018314x314.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201018314x314_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201105476x364.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201105476x364_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201207279x364.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201207279x364_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20210107476x364.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20210107476x364_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://YD.tol.com/miniworld15.html</loc>
-    <lastmod>2021-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200428_mw15_%E6%B2%B9%E7%87%88404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200428_mw15_%E6%B2%B9%E7%87%88404x404_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200528_mw15_%E5%A4%A7%E7%A5%9E%E5%A3%AB%E9%83%8E404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200528_mw15_%E5%A4%A7%E7%A5%9E%E5%A3%AB%E9%83%8E404x404_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200723_mw15_%E5%8A%8D%E5%86%A0%E8%BB%8D404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200723_mw15_%E5%8A%8D%E5%86%A0%E8%BB%8D404x404_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200727_mw15_eva%E5%88%9D%E8%99%9F%E6%A9%9F404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200727_mw15_eva%E5%88%9D%E8%99%9F%E6%A9%9F404x404_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200828_mw15_%E8%B5%A4%E7%BE%BD%E7%9B%AE404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20200828_mw15_%E8%B5%A4%E7%BE%BD%E7%9B%AE404x404_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201004_mw15_%E6%8B%89%E8%A5%BF%E6%96%AF404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201004_mw15_%E6%8B%89%E8%A5%BF%E6%96%AF404x404_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201028_mw15_gotcha!404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201028_mw15_gotcha!404x404_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201128_mw15_%E9%9B%B7%E6%A0%BC%E8%A5%BF404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20201128_mw15_%E9%9B%B7%E6%A0%BC%E8%A5%BF404x404_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20210128_mw15_%E5%B0%8F%E6%98%A5_%E9%9B%B7%E6%A0%BC%E8%A5%BF404x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/20210128_mw15_%E5%B0%8F%E6%98%A5_%E9%9B%B7%E6%A0%BC%E8%A5%BF404x404_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://YD.tol.com/mazes-of-agulet.html</loc>
-    <lastmod>2021-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_00.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_03.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_04.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_05.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_06.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0067x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0067x45_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0167x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0167x45_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0267x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0267x45_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0367x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0367x45_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0467x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0467x45_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0567x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0567x45_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0667x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/a0807024_%E6%9D%8E%E5%AE%97%E5%8F%A1_f_0667x45_2x.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/folder_kdd_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://YD.tol.com/obsidian.html</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon_2x.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://YD.tol.com/images/p_obsidian_title.png</image:loc>
     </image:image>
@@ -531,46 +132,166 @@
       <image:loc>http://YD.tol.com/images/p_obsidian_poster_art_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/-1--9.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/-1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/-1--9_2x.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/-10--18.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/-10--18_2x.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/-19--27.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/info_obsidian.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/-19--27_2x.jpg</image:loc>
+      <image:loc>http://YD.tol.com/images/info_obsidian_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_obsidian_2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_obsidian_2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-5--6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-5--6_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-7--8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-7--8_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-9_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-10_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-11_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-12_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-13_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-14_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-15_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-16_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-17_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-18_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-20_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-21_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-22_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-23--24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-23--24_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-25--26.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-25--26_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-27_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://YD.tol.com/kids-dragon-s-diary.html</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D.png</image:loc>
+      <image:loc>http://YD.tol.com/images/%E5%B0%81%E9%9D%A2%E5%9C%96-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E6%A2%9D_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/%E5%89%8D%E4%B8%80%E9%A0%81icon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon52x52.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/home%20icon52x52_2x.png</image:loc>
+      <image:loc>http://YD.tol.com/images/%E5%B0%81%E9%9D%A2%E5%9C%96-2_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://YD.tol.com/images/%E5%B9%BC%E9%BE%8D%E6%97%A5%E8%A8%98%20%E8%A8%AD%E5%AE%9A1.jpg</image:loc>
@@ -597,9 +318,6 @@
       <image:loc>http://YD.tol.com/images/%E5%B9%BC%E9%BE%8D%E6%97%A5%E8%A8%98%20%E6%BC%86%E9%BB%91%E4%B9%8B%E9%BE%8D%20%E8%A8%AD%E5%AE%9A_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/-1.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://YD.tol.com/images/-2.jpg</image:loc>
     </image:image>
     <image:image>
@@ -612,49 +330,16 @@
       <image:loc>http://YD.tol.com/images/cg%20e1-2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e3_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e4-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e4-2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://YD.tol.com/images/cg%20e5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://YD.tol.com/images/cg%20e5_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e6_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e7_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/cg%20e8-2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://YD.tol.com/images/cg%20e9.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://YD.tol.com/images/cg%20e9_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://YD.tol.com/images/-3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://YD.tol.com/images/%E5%B0%8F%E8%96%9B%20%E6%99%AE%E9%80%9A.png</image:loc>
@@ -669,10 +354,397 @@
       <image:loc>http://YD.tol.com/images/%E5%A4%9A%E6%8B%89%E8%B2%A2%20%E6%99%AE%E9%80%9A_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E4%B8%8B%E8%BC%89icon.png</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://YD.tol.com/images/%E4%B8%8B%E8%BC%89icon_2x.png</image:loc>
+      <image:loc>http://YD.tol.com/images/home%20page_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_kdd.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_kdd_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/%E8%B5%B0%E8%B7%AF%E5%9C%96.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/%E8%B5%B0%E8%B7%AF%E5%9C%96_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_kdd_2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_kdd_2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-1_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/-3_2x2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://YD.tol.com/the-forever-forest.html</loc>
+    <lastmod>2021-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/home%20page.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/home%20page_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_towa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_towa_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_towa_2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_towa_2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_title_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bd1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bd1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bd3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bd3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bd4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bd4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_setting.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_setting_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bg_%E9%83%BD%E5%B8%82%E5%8F%A2%E6%9E%97_ex.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bg_%E9%83%BD%E5%B8%82%E5%8F%A2%E6%9E%97_ex_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_cutscene_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_cutscene_1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_cutscene_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_cutscene_2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bg_%E5%BB%A2%E5%A2%9F%E5%8F%A2%E6%9E%97.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/p_towa_bg_%E5%BB%A2%E5%A2%9F%E5%8F%A2%E6%9E%97_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://YD.tol.com/design-freshman-diary.html</loc>
+    <lastmod>2021-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200920.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/facebook-app-symbol.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/facebook-app-symbol_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/home%20page.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/home%20page_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_dfd.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_dfd_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191004_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191014.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191014_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191023.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191023_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191124.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191124_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20191222_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200111.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200111_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200308.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200308_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200406.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200406_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200515.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200515_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200709.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200709_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201018.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201018_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201105_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201207_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210107.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210107_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210309.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210309_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210331.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210331_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210428.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210428_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210519.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210519_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210701.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210701_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210619.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210619_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210924_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://YD.tol.com/illustrations.html</loc>
+    <lastmod>2021-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/facebook-app-symbol.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/facebook-app-symbol_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/twitter_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/pixiv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/pixiv_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/home%20page.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/home%20page_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/back_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_illustrations.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/info_illustrations_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200812_asriel_redo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20200812_asriel_redo_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201004_mw15_%E6%8B%89%E8%A5%BF%E6%96%AF.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201004_mw15_%E6%8B%89%E8%A5%BF%E6%96%AF_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201128_mw15_%E9%9B%B7%E6%A0%BC%E8%A5%BF.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20201128_mw15_%E9%9B%B7%E6%A0%BC%E8%A5%BF_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/%E7%8D%B8%E8%A8%AD3%E9%BB%9E0.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/%E7%8D%B8%E8%A8%AD3%E9%BB%9E0_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/gg_%E7%8B%97%E7%8B%97%E6%96%B0%E8%A8%AD%E5%AE%9A.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/gg_%E7%8B%97%E7%8B%97%E6%96%B0%E8%A8%AD%E5%AE%9A_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210202_2021%E7%9A%84%E6%88%91.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210202_2021%E7%9A%84%E6%88%91_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210718_%E8%8D%92%E5%A1%9A%E3%82%AA%E3%82%AC%E3%83%9F.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210718_%E8%8D%92%E5%A1%9A%E3%82%AA%E3%82%AC%E3%83%9F_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210511_cube.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210511_cube_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210915_%E8%8D%92%E5%A1%9A%E3%82%AA%E3%82%AC%E3%83%9F%E5%8D%8A%E5%B9%B4%E8%A8%98%E5%BF%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210915_%E8%8D%92%E5%A1%9A%E3%82%AA%E3%82%AC%E3%83%9F%E5%8D%8A%E5%B9%B4%E8%A8%98%E5%BF%B5_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210928_gg%E7%A7%8B%E8%A3%9D.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YD.tol.com/images/20210928_gg%E7%A7%8B%E8%A3%9D_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
