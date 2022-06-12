@@ -1,160 +1,41 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YD.tol.com" resolutions="1x,2x" timestamp="1633692374820">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YouDeng.com" resolutions="1x,2x" timestamp="1654994513519">
   <folder name="css">
-    <file name="site_global.css" crc="4203465377"/>
-    <file name="index.css" crc="68895938" ref="index"/>
-    <file name="art.css" crc="300354544" ref="art"/>
-    <file name="obsidian.css" crc="4101693222" ref="obsidian"/>
-    <file name="animation.css" crc="312096782" ref="animation"/>
-    <file name="game.css" crc="201179217" ref="game"/>
-    <file name="kids-dragon-s-diary.css" crc="159307254" ref="kids-dragon-s-diary"/>
-    <file name="master________.css" crc="337040647" ref="kids-dragon-s-diary"/>
-    <file name="master___.css" crc="4287175423" ref="index"/>
-    <file name="master_____.css" crc="3939701794" ref="design-freshman-diary:game:obsidian:illustrations:art:animation:the-forever-forest"/>
-    <file name="design-freshman-diary.css" crc="186309637" ref="design-freshman-diary"/>
-    <file name="illustrations.css" crc="3776070262" ref="illustrations"/>
-    <file name="the-forever-forest.css" crc="4226447128" ref="the-forever-forest"/>
+    <file name="site_global.css" crc="336082127"/>
+    <file name="index.css" crc="173021405" ref="index"/>
+    <file name="master___.css" crc="4115623804" ref="index"/>
+    <file name="master_____.css" crc="3939701794" ref="illustrations:animations:comics"/>
+    <file name="illustrations.css" crc="511904569" ref="illustrations"/>
+    <file name="animations.css" crc="408117551" ref="animations"/>
+    <file name="comics.css" crc="446785025" ref="comics"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:art:animation:game:obsidian:kids-dragon-s-diary:the-forever-forest:design-freshman-diary:illustrations"/>
-    <file name="museutils.js" crc="4216313831" ref="index:art:animation:game:obsidian:kids-dragon-s-diary:the-forever-forest:design-freshman-diary:illustrations"/>
-    <file name="whatinput.js" crc="86476730" ref="index:art:animation:game:obsidian:kids-dragon-s-diary:the-forever-forest:design-freshman-diary:illustrations"/>
-    <file name="museconfig.js" crc="4177022356" ref="index:art:animation:game:obsidian:kids-dragon-s-diary:the-forever-forest:design-freshman-diary:illustrations"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:art:animation:game:obsidian:kids-dragon-s-diary:the-forever-forest:design-freshman-diary:illustrations"/>
-    <file name="require.js" crc="3951022091" ref="index:art:animation:game:obsidian:kids-dragon-s-diary:the-forever-forest:design-freshman-diary:illustrations"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:illustrations:animations:comics"/>
+    <file name="museutils.js" crc="4216313831" ref="index:illustrations:animations:comics"/>
+    <file name="whatinput.js" crc="86476730" ref="index:illustrations:animations:comics"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:illustrations:animations:comics"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:illustrations:animations:comics"/>
+    <file name="require.js" crc="3951022091" ref="index:illustrations:animations:comics"/>
   </folder>
   <folder name="images">
-    <file name="20200920.gif" crc="4041374868" seo="true" ref="design-freshman-diary">
-      <caption webpage="art" alt=""/>
-      <caption webpage="design-freshman-diary" alt=""/>
-      <caption webpage="designer-s-freshman-diary" alt=""/>
-    </file>
-    <file name="封面圖-2.jpg" crc="4186743302" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="game" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="封面圖-2_2x.jpg" crc="63329768" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="game" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="p_obsidian_title.png" crc="234057513" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="p_obsidian_title_2x.png" crc="4293792331" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="p_obsidian_角色設定.jpg" crc="4197575888" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="p_obsidian_角色設定_2x.jpg" crc="137467989" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="p_obsidian_poster_art.jpg" crc="424283722" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="p_obsidian_poster_art_2x.jpg" crc="4019285641" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="幼龍日記 設定1.jpg" crc="178070312" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="幼龍日記 設定1_2x.jpg" crc="127591618" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="幼龍日記 無限之龍 新設定.jpg" crc="3945848005" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="幼龍日記 無限之龍 新設定_2x.jpg" crc="178288884" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="幼龍日記 設定2.jpg" crc="3932142692" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="幼龍日記 設定2_2x.jpg" crc="307488767" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="幼龍日記 漆黑之龍 設定.jpg" crc="513776320" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="幼龍日記 漆黑之龍 設定_2x.jpg" crc="4030995361" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="-1.jpg" crc="3892397719" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="obsidian" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="-2.jpg" crc="4260547165" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="-2_2x.jpg" crc="4224849572" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="cg e1-2.jpg" crc="4050284850" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="cg e1-2_2x.jpg" crc="61534467" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="cg e5.jpg" crc="328086421" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="cg e5_2x.jpg" crc="3809513858" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="cg e9.jpg" crc="4274536310" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="cg e9_2x.jpg" crc="3946627194" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="-3.jpg" crc="4146938728" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="obsidian" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="小薛 普通.png" crc="4122835726" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="小薛 普通_2x.png" crc="3986737379" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="多拉貢 普通.png" crc="385155779" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="多拉貢 普通_2x.png" crc="3776432978" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="facebook-app-symbol.png" crc="3850341882" seo="true" ref="index:design-freshman-diary:illustrations">
+    <file name="facebook-app-symbol.png" crc="3850341882" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="design-freshman-diary" alt=""/>
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="facebook-app-symbol_2x.png" crc="3973442549" seo="true" ref="index:design-freshman-diary:illustrations">
+    <file name="facebook-app-symbol_2x.png" crc="3973442549" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="design-freshman-diary" alt=""/>
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="u9440-4.png" crc="4106515304" ref="index"/>
-    <file name="u9440-4_2x.png" crc="519935369" ref="index"/>
-    <file name="u9447-4.png" crc="106209839" ref="index"/>
-    <file name="u9447-4_2x.png" crc="329650326" ref="index"/>
-    <file name="u9450-4.png" crc="128720505" ref="index"/>
-    <file name="u9450-4_2x.png" crc="165086571" ref="index"/>
-    <file name="20210907_新封面.png" crc="102328736" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="20210907_新封面_2x.png" crc="137453350" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="info_self.png" crc="4067273487" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="info_self_2x.png" crc="119250346" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter.png" crc="3861516210" seo="true" ref="index:illustrations">
+    <file name="u9440-4.png" crc="4292525348" ref="index"/>
+    <file name="u9440-4_2x.png" crc="267950066" ref="index"/>
+    <file name="u9447-4.png" crc="3904172934" ref="index"/>
+    <file name="u9447-4_2x.png" crc="385205096" ref="index"/>
+    <file name="twitter.png" crc="3861516210" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="twitter_2x.png" crc="4003700369" seo="true" ref="index:illustrations">
+    <file name="twitter_2x.png" crc="4003700369" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="illustrations" alt=""/>
     </file>
@@ -164,576 +45,65 @@
     <file name="youtube_2x.png" crc="4149554826" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pixiv.png" crc="4055738166" seo="true" ref="index:illustrations">
+    <file name="pixiv.png" crc="4055738166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="pixiv_2x.png" crc="3811158047" seo="true" ref="index:illustrations">
+    <file name="pixiv_2x.png" crc="3811158047" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="u9917-8.png" crc="4046968334" ref="index"/>
-    <file name="u9917-8_2x.png" crc="276655201" ref="index"/>
-    <file name="u9675-4.png" crc="4004780815" ref="art"/>
-    <file name="u9675-4_2x.png" crc="3824678338" ref="art"/>
-    <file name="home page.png" crc="4272440714" seo="true" ref="art:animation:game:obsidian:the-forever-forest:design-freshman-diary:illustrations:kids-dragon-s-diary">
-      <caption webpage="game" alt=""/>
-      <caption webpage="design-freshman-diary" alt=""/>
-      <caption webpage="the-forever-forest" alt=""/>
+    <file name="home page.png" crc="4272440714" seo="true" ref="illustrations:animations:comics">
       <caption webpage="illustrations" alt=""/>
       <caption webpage="obsidian" alt=""/>
-      <caption webpage="art" alt=""/>
+      <caption webpage="comics" alt=""/>
       <caption webpage="animation" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="home page_2x.png" crc="504006783" seo="true" ref="art:animation:game:obsidian:the-forever-forest:design-freshman-diary:illustrations:kids-dragon-s-diary">
-      <caption webpage="game" alt=""/>
+      <caption webpage="animations" alt=""/>
       <caption webpage="design-freshman-diary" alt=""/>
-      <caption webpage="the-forever-forest" alt=""/>
-      <caption webpage="illustrations" alt=""/>
-      <caption webpage="obsidian" alt=""/>
-      <caption webpage="art" alt=""/>
-      <caption webpage="animation" alt=""/>
       <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="folder_dfd.png" crc="4077878102" seo="true" ref="art">
+      <caption webpage="the-forever-forest" alt=""/>
       <caption webpage="art" alt=""/>
-    </file>
-    <file name="folder_dfd_2x.png" crc="402107336" seo="true" ref="art">
-      <caption webpage="art" alt=""/>
-    </file>
-    <file name="folder_illustrations.png" crc="4249714803" seo="true" ref="art">
-      <caption webpage="art" alt=""/>
-    </file>
-    <file name="folder_illustrations_2x.png" crc="40709968" seo="true" ref="art">
-      <caption webpage="art" alt=""/>
-    </file>
-    <file name="u9611-4.png" crc="384941337" ref="art"/>
-    <file name="u9611-4_2x.png" crc="16921567" ref="art"/>
-    <file name="u9612-4.png" crc="106209839" ref="art"/>
-    <file name="u9612-4_2x.png" crc="329650326" ref="art"/>
-    <file name="u9613-4.png" crc="128720505" ref="art"/>
-    <file name="u9613-4_2x.png" crc="165086571" ref="art"/>
-    <file name="u9678-4.png" crc="3883316561" ref="animation"/>
-    <file name="u9678-4_2x.png" crc="4107048050" ref="animation"/>
-    <file name="u9620-4.png" crc="4106515304" ref="animation"/>
-    <file name="u9620-4_2x.png" crc="519935369" ref="animation"/>
-    <file name="u9621-4.png" crc="4245917832" ref="animation"/>
-    <file name="u9621-4_2x.png" crc="218066182" ref="animation"/>
-    <file name="u9622-4.png" crc="128720505" ref="animation"/>
-    <file name="u9622-4_2x.png" crc="165086571" ref="animation"/>
-    <file name="folder_obsidian.png" crc="3845536356" seo="true" ref="animation">
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="folder_obsidian_2x.png" crc="3830616553" seo="true" ref="animation">
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="folder_towa.png" crc="108554051" seo="true" ref="animation">
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="folder_towa_2x.png" crc="391855386" seo="true" ref="animation">
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="u9681-4.png" crc="3912258634" ref="game"/>
-    <file name="u9681-4_2x.png" crc="192844218" ref="game"/>
-    <file name="folder_kdd.png" crc="103949245" seo="true" ref="game">
       <caption webpage="game" alt=""/>
     </file>
-    <file name="folder_kdd_2x.png" crc="3912582593" seo="true" ref="game">
+    <file name="home page_2x.png" crc="504006783" seo="true" ref="illustrations:animations:comics">
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="obsidian" alt=""/>
+      <caption webpage="comics" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animations" alt=""/>
+      <caption webpage="design-freshman-diary" alt=""/>
+      <caption webpage="kids-dragon-s-diary" alt=""/>
+      <caption webpage="the-forever-forest" alt=""/>
+      <caption webpage="art" alt=""/>
       <caption webpage="game" alt=""/>
     </file>
-    <file name="u9629-4.png" crc="4106515304" ref="game"/>
-    <file name="u9629-4_2x.png" crc="519935369" ref="game"/>
-    <file name="u9630-4.png" crc="106209839" ref="game"/>
-    <file name="u9630-4_2x.png" crc="329650326" ref="game"/>
-    <file name="u9631-4.png" crc="525649575" ref="game"/>
-    <file name="u9631-4_2x.png" crc="389840212" ref="game"/>
-    <file name="u10340-4.png" crc="4106515304" ref="obsidian"/>
-    <file name="u10340-4_2x.png" crc="519935369" ref="obsidian"/>
-    <file name="u10341-4.png" crc="4245917832" ref="obsidian"/>
-    <file name="u10341-4_2x.png" crc="218066182" ref="obsidian"/>
-    <file name="u10342-4.png" crc="128720505" ref="obsidian"/>
-    <file name="u10342-4_2x.png" crc="165086571" ref="obsidian"/>
-    <file name="info_obsidian.png" crc="532010375" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="info_obsidian_2x.png" crc="434592878" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="info_obsidian_2.png" crc="238329412" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="info_obsidian_2_2x.png" crc="44872379" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-1_2x.jpg" crc="4064224145" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="obsidian" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="-3_2x.jpg" crc="258846581" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="obsidian" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="-4.jpg" crc="235261150" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-4_2x.jpg" crc="449137562" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-5--6.jpg" crc="4202943503" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-5--6_2x.jpg" crc="3897513911" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-7--8.jpg" crc="4048601266" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-7--8_2x.jpg" crc="4240632" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-9.jpg" crc="299133475" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-9_2x.jpg" crc="3854242241" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-10.jpg" crc="3866052826" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-10_2x.jpg" crc="336421463" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-11.jpg" crc="271601184" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-11_2x.jpg" crc="3934695697" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-12.jpg" crc="4120934754" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-12_2x.jpg" crc="4223772528" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-13.jpg" crc="3799875344" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-13_2x.jpg" crc="523994153" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-14.jpg" crc="297568062" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-14_2x.jpg" crc="314312371" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-15.jpg" crc="4209402183" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-15_2x.jpg" crc="4091849613" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-16.jpg" crc="455976624" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-16_2x.jpg" crc="3849577575" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-17.jpg" crc="62940364" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-17_2x.jpg" crc="74037361" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-18.jpg" crc="242540738" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-18_2x.jpg" crc="3923318132" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-20.jpg" crc="454163307" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-20_2x.jpg" crc="254380569" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-21.jpg" crc="3888314846" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-21_2x.jpg" crc="269763766" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-22.jpg" crc="3779946499" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-22_2x.jpg" crc="318519782" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-23--24.jpg" crc="267097551" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-23--24_2x.jpg" crc="147610788" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-25--26.jpg" crc="14711268" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-25--26_2x.jpg" crc="3859389916" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-27.jpg" crc="294684515" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="-27_2x.jpg" crc="4109174245" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="back.png" crc="427280847" seo="true" ref="obsidian:the-forever-forest:design-freshman-diary:illustrations:kids-dragon-s-diary">
-      <caption webpage="illustrations" alt=""/>
-      <caption webpage="obsidian" alt=""/>
-      <caption webpage="design-freshman-diary" alt=""/>
-      <caption webpage="the-forever-forest" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="back_2x.png" crc="4187649539" seo="true" ref="obsidian:the-forever-forest:design-freshman-diary:illustrations:kids-dragon-s-diary">
-      <caption webpage="illustrations" alt=""/>
-      <caption webpage="obsidian" alt=""/>
-      <caption webpage="design-freshman-diary" alt=""/>
-      <caption webpage="the-forever-forest" alt=""/>
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="u10349-4.png" crc="4106515304" ref="the-forever-forest"/>
-    <file name="u10349-4_2x.png" crc="519935369" ref="the-forever-forest"/>
-    <file name="u10350-4.png" crc="4245917832" ref="the-forever-forest"/>
-    <file name="u10350-4_2x.png" crc="218066182" ref="the-forever-forest"/>
-    <file name="u10351-4.png" crc="128720505" ref="the-forever-forest"/>
-    <file name="u10351-4_2x.png" crc="165086571" ref="the-forever-forest"/>
-    <file name="info_towa.png" crc="213852987" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="info_towa_2x.png" crc="26421015" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="info_towa_2.png" crc="471802867" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="info_towa_2_2x.png" crc="4043611749" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_title.png" crc="4186039848" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_title_2x.png" crc="273703679" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bd1.jpg" crc="4136722035" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bd1_2x.jpg" crc="246454291" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bd3.jpg" crc="4012324996" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bd3_2x.jpg" crc="3823461647" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bd4.jpg" crc="4007497801" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bd4_2x.jpg" crc="431968685" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_setting.jpg" crc="22996540" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_setting_2x.jpg" crc="3961086397" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bg_都市叢林_ex.jpg" crc="4019287378" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bg_都市叢林_ex_2x.jpg" crc="3855568167" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_cutscene_1.jpg" crc="4048357744" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_cutscene_1_2x.jpg" crc="3869967349" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_cutscene_2.jpg" crc="148644839" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_cutscene_2_2x.jpg" crc="288685543" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bg_廢墟叢林.jpg" crc="274959804" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="p_towa_bg_廢墟叢林_2x.jpg" crc="501714640" seo="true" ref="the-forever-forest">
-      <caption webpage="the-forever-forest" alt=""/>
-    </file>
-    <file name="u9868-4.png" crc="384941337" ref="design-freshman-diary"/>
-    <file name="u9868-4_2x.png" crc="16921567" ref="design-freshman-diary"/>
-    <file name="u9869-4.png" crc="106209839" ref="design-freshman-diary"/>
-    <file name="u9869-4_2x.png" crc="329650326" ref="design-freshman-diary"/>
-    <file name="u9870-4.png" crc="128720505" ref="design-freshman-diary"/>
-    <file name="u9870-4_2x.png" crc="165086571" ref="design-freshman-diary"/>
-    <file name="info_dfd.png" crc="4285661553" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="info_dfd_2x.png" crc="523742182" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191004.jpg" crc="4099107106" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191004_2x.jpg" crc="107070437" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191014.jpg" crc="4240508229" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191014_2x.jpg" crc="4047599981" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191023.jpg" crc="3857075938" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191023_2x.jpg" crc="3865301704" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191124.jpg" crc="3963163569" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191124_2x.jpg" crc="3889605615" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191203.jpg" crc="349043471" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191203_2x.jpg" crc="507203334" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191222.jpg" crc="4274752825" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20191222_2x.jpg" crc="400757259" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200111.jpg" crc="3807798503" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200111_2x.jpg" crc="6825156" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200308.jpg" crc="528516192" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200308_2x.jpg" crc="403360978" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200406.jpg" crc="153769853" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200406_2x.jpg" crc="129523477" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200515.jpg" crc="3937043211" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200515_2x.jpg" crc="3832742223" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200709.jpg" crc="3778928277" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20200709_2x.jpg" crc="162219991" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20201018.jpg" crc="4038883504" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20201018_2x.jpg" crc="35294101" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20201105.jpg" crc="412278718" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20201105_2x.jpg" crc="4241775478" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20201207.jpg" crc="4094518603" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20201207_2x.jpg" crc="3803627589" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210107.jpg" crc="358740032" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210107_2x.jpg" crc="3988918464" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210309.jpg" crc="3919696460" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210309_2x.jpg" crc="118750182" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210331.jpg" crc="158531138" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210331_2x.jpg" crc="412192152" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210428.jpg" crc="4275144045" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210428_2x.jpg" crc="185226089" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210519.jpg" crc="69974681" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210519_2x.jpg" crc="525644435" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210701.jpg" crc="498540935" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210701_2x.jpg" crc="8600904" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210619.jpg" crc="3759462276" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210619_2x.jpg" crc="152061110" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210924.jpg" crc="4014296499" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="20210924_2x.jpg" crc="151022354" seo="true" ref="design-freshman-diary">
-      <caption webpage="design-freshman-diary" alt=""/>
-    </file>
-    <file name="u9877-4.png" crc="384941337" ref="illustrations"/>
-    <file name="u9877-4_2x.png" crc="16921567" ref="illustrations"/>
-    <file name="u9878-4.png" crc="106209839" ref="illustrations"/>
-    <file name="u9878-4_2x.png" crc="329650326" ref="illustrations"/>
-    <file name="u9879-4.png" crc="128720505" ref="illustrations"/>
-    <file name="u9879-4_2x.png" crc="165086571" ref="illustrations"/>
-    <file name="info_illustrations.png" crc="4179080619" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="info_illustrations_2x.png" crc="24104074" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20200812_asriel_redo.jpg" crc="3819728828" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20200812_asriel_redo_2x.jpg" crc="202869110" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20201004_mw15_拉西斯.jpg" crc="309956877" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20201004_mw15_拉西斯_2x.jpg" crc="532731212" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20201128_mw15_雷格西.jpg" crc="180655056" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20201128_mw15_雷格西_2x.jpg" crc="246672922" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="獸設3點0.jpg" crc="124460658" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="獸設3點0_2x.jpg" crc="3960084464" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="gg_狗狗新設定.jpg" crc="4091105321" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="gg_狗狗新設定_2x.jpg" crc="4283207626" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210202_2021的我.png" crc="288554613" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210202_2021的我_2x.png" crc="4164449142" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210718_荒塚オガミ.jpg" crc="3796136571" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210718_荒塚オガミ_2x.jpg" crc="3955923520" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210511_cube.jpg" crc="4166092761" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210511_cube_2x.jpg" crc="196026811" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210915_荒塚オガミ半年記念.png" crc="339562116" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210915_荒塚オガミ半年記念_2x.png" crc="248155799" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210928_gg秋裝.jpg" crc="246180738" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="20210928_gg秋裝_2x.jpg" crc="4123719355" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
-    </file>
-    <file name="u11204-4.png" crc="4106515304" ref="kids-dragon-s-diary"/>
-    <file name="u11204-4_2x.png" crc="519935369" ref="kids-dragon-s-diary"/>
-    <file name="u11205-4.png" crc="106209839" ref="kids-dragon-s-diary"/>
-    <file name="u11205-4_2x.png" crc="329650326" ref="kids-dragon-s-diary"/>
-    <file name="u11206-4.png" crc="525649575" ref="kids-dragon-s-diary"/>
-    <file name="u11206-4_2x.png" crc="389840212" ref="kids-dragon-s-diary"/>
-    <file name="info_kdd.png" crc="136934396" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="info_kdd_2x.png" crc="4094967700" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="走路圖.png" crc="333331877" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="走路圖_2x.png" crc="4240259726" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="info_kdd_2.png" crc="56223550" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="info_kdd_2_2x.png" crc="3924550152" seo="true" ref="kids-dragon-s-diary">
-      <caption webpage="kids-dragon-s-diary" alt=""/>
-    </file>
-    <file name="o_-1.jpg" crc="4011470757" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="o_-1_2x.jpg" crc="502300431" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="o_-3.jpg" crc="3868084820" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
-    <file name="o_-3_2x.jpg" crc="403594603" seo="true" ref="obsidian">
-      <caption webpage="obsidian" alt=""/>
-    </file>
+    <file name="u11617-4.png" crc="4148563026" ref="index"/>
+    <file name="u11617-4_2x.png" crc="4156510796" ref="index"/>
+    <file name="u11665-4.png" crc="267642647" ref="index"/>
+    <file name="u11665-4_2x.png" crc="3906168606" ref="index"/>
+    <file name="u11612-8.png" crc="4046968334" ref="index"/>
+    <file name="u11612-8_2x.png" crc="276655201" ref="index"/>
+    <file name="u11670-4-a.png" crc="4292525348" ref="illustrations"/>
+    <file name="u11670-4-a_2x.png" crc="267950066" ref="illustrations"/>
+    <file name="u11671-4.png" crc="3904172934" ref="illustrations"/>
+    <file name="u11671-4_2x.png" crc="385205096" ref="illustrations"/>
+    <file name="u11672-4.png" crc="267642647" ref="illustrations"/>
+    <file name="u11672-4_2x.png" crc="3906168606" ref="illustrations"/>
+    <file name="u11679-4.png" crc="4292525348" ref="animations"/>
+    <file name="u11679-4_2x.png" crc="267950066" ref="animations"/>
+    <file name="u11680-4-a.png" crc="3904172934" ref="animations"/>
+    <file name="u11680-4-a_2x.png" crc="385205096" ref="animations"/>
+    <file name="u11681-4.png" crc="267642647" ref="animations"/>
+    <file name="u11681-4_2x.png" crc="3906168606" ref="animations"/>
+    <file name="u11688-4.png" crc="4292525348" ref="comics"/>
+    <file name="u11688-4_2x.png" crc="267950066" ref="comics"/>
+    <file name="u11689-4.png" crc="3904172934" ref="comics"/>
+    <file name="u11689-4_2x.png" crc="385205096" ref="comics"/>
+    <file name="u11690-4-a.png" crc="267642647" ref="comics"/>
+    <file name="u11690-4-a_2x.png" crc="3906168606" ref="comics"/>
   </folder>
-  <file name="index.html" crc="487221352" seo="true" mt="1633425958378" redirect="true"/>
-  <file name="art.html" crc="4217504939" seo="true" mt="1633424350799" redirect="true"/>
-  <file name="animation.html" crc="3765157500" seo="true" mt="1633427560789" redirect="true"/>
-  <file name="game.html" crc="221213006" seo="true" mt="1633424402081" redirect="true"/>
-  <file name="obsidian.html" crc="190391687" seo="true" mt="1633692358004" redirect="true"/>
-  <file name="kids-dragon-s-diary.html" crc="182437503" seo="true" mt="1633692198105" redirect="true"/>
-  <file name="the-forever-forest.html" crc="249374719" seo="true" mt="1633427781894" redirect="true"/>
-  <file name="design-freshman-diary.html" crc="4006451721" seo="true" mt="1633428962881" redirect="true"/>
-  <file name="illustrations.html" crc="4250482579" seo="true" mt="1633428977683" redirect="true"/>
+  <file name="index.html" crc="452536412" seo="true" mt="1654994234808" redirect="true"/>
+  <file name="illustrations.html" crc="381718914" seo="true" mt="1654994247207" redirect="true"/>
+  <file name="animations.html" crc="108970803" seo="true" mt="1654994263949" redirect="true"/>
+  <file name="comics.html" crc="4068092520" seo="true" mt="1654994281430" redirect="true"/>
 </manifest>
